@@ -13,3 +13,4 @@ do
     fi
 done < /tmp/clean-index.txt
 
+rm -rf /tmp/index-logstash.txt /tmp/clean-index.txt
